@@ -1,0 +1,50 @@
+
+.heading{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.5em;
+}
+.input{
+/* display: flex; */
+/* text-align: center; */
+justify-content: center;    
+}
+
+.inp1{
+    margin-left: 2rem;
+    font-size: 2rem;
+}
+.name{
+margin-left: 10rem;
+}
+.roll{
+    margin-left: 4.5rem;
+}
+.btn{
+    font-size: 1rem;
+    margin-top: 50px;
+    margin-left: 420px;
+}
+.tablediv{
+    margin-top:2em;
+}
+
+.row th{
+    font-size: 20px;
+    padding: 0 5em;
+}
+.ans td{
+    padding: 0 5.6em;
+    font-size: 20px;
+}
+
+.anstable{
+background-color: aquamarine;
+}
+
+.total{
+    display: flex;
+    /* justify-content: center; */
+    padding: 0 2em;
+}
